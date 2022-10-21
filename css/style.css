@@ -1,14 +1,12 @@
 /* header style */
-body {
-    height: 2000px;
-}
 .container {
     display: inline-block;
     position: fixed;
     vertical-align: middle;
-    /* width: 1440px;
-    height: 50px; */
+    width: 1440px;
+    height: 50px;
     z-index: 100;
+    background-color:aqua;
 }
 .logo {
     display: inline-block;
@@ -71,7 +69,7 @@ a {
     font-size: 24px;
     color: #202124;
 }
-/* section2 style */
+/* div2 style */
 
 .mshobeli {
     position: relative;
@@ -120,7 +118,8 @@ a {
     color: #a6adb4;
     font-size: 13px;
 }
-/* section3 style */
+
+/* div3 style */
 
 .middlecard {
     position: relative;
@@ -142,3 +141,7 @@ a {
     color: #ffffff;
     font-weight: bold;
 }
+
+/* section 2 style */
+
+
